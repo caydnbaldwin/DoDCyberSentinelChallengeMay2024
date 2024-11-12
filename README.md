@@ -1,4 +1,4 @@
-# DoDCyberSentinelChallengeMay204
+# DoD Cyber-Sentinel Challenge 2024
 Department of Defense Cyber Sentinel Challenge. I placed in the top 15%, 741st out of 5000 competitors. The competition lasted 8 hours.
 
 ## Experience
